@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,aACF,CAEA,uBACE,SAAU,CACV,cACF,CAEA,eACE,YAAa,CACb,cACF","file":"main.9d136c66.chunk.css","sourcesContent":["a {\n  margin: 0 10px;\n}\n\na.active, a.link-active {\n  color: red;\n  font-size: 30px;\n}\n\na.about-active {\n  color: orange;\n  font-size: 20px;\n}\n"]}
